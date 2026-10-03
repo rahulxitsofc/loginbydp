@@ -44,6 +44,13 @@
       "isBanned": false,
       "banReason": "lado",
       "userRank": "Supreme User"
+    },
+    "Lado-4HSSAT": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-04",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
